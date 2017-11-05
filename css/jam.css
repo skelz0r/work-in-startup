@@ -27,8 +27,9 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #eb685b;
+  /* background: #eb685b; */
   /* background: linear-gradient(208deg, #eb685b 0%, #ee834e 100%) #eb685b */
+  background: linear-gradient(214deg, rgba(254, 86, 33, 0.8) 0%, rgba(196, 33, 94, 0.8) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
 .reveal {
